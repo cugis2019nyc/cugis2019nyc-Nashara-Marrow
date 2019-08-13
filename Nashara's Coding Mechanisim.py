@@ -73,6 +73,49 @@ area(2,3)
 area(35,12)   
 
 
+def chocolatebox(a,b,c):
+    chocolatebox = a=darkchocolateb=whitechocolatec=milkchocolate 
+    print(chocolate)
+    
+
+
+
+#chocolate box
+chocolate1="milkchocolate"
+chocolate2="darkchocolate"
+chocolate3="whitechocolate"
+
+A=5
+B=8
+C=6
+
+print(chocolate1,A+3)
+print(chocolate2,C+2)
+print(chocolate3,B+2)
+
+
+
+#math library 
+import math
+dir(math)
+
+math.factorial(7)
+math.factorial(9)
+math.sqrt(350)
+math.pow(2.718281828459045,2)
+
+
+math.exp(2)
+
+math.pow(35,9)
+
+math.pi
+
+
+
+
+
+
 
 
 
